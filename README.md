@@ -1,6 +1,6 @@
 # AB_tests
 В данном блоке представлены проекты по анализу результатов A/B-тестирования:
-1. [AB test (grocery delivery app)] (https://github.com/jkozyrkova/AB_tests/blob/main/AB%20test%20(grocery%20delivery%20app).ipynb) - анализ эффективности умной системы рекомендации товаров в приложении доставки.
+1. [AB test (grocery delivery app)](https://github.com/jkozyrkova/AB_tests/blob/main/AB%20test%20(grocery%20delivery%20app).ipynb) - анализ эффективности умной системы рекомендации товаров в приложении доставки.
 2. [AB test (online dating app)](https://github.com/jkozyrkova/AB_tests/blob/main/AB%20test%20(online%20dating%20app).ipynb) - анализ работы нового алгоритма для поиска наиболее подходящих анкет в приложении онлайн-знакомств.
 3. [AB test (pizza delivery app)](https://github.com/jkozyrkova/AB_tests/blob/main/AB%20test%20(pizza%20delivery%20app).ipynb) - анализ эффективности нового алгоритма распределения заказов по курьерам в приложении доставки пиццы.
 4. [AB test (new payment)](https://github.com/jkozyrkova/AB_tests/blob/main/AB_tests_new_payment.ipynb) - анализ работы новой механики оплаты услуг на сайте.
